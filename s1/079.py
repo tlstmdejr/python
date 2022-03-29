@@ -1,0 +1,12 @@
+string='abcdefg'
+print(string[0])
+print(string[1])
+print(string[5])
+print(string[6])
+print(string[3])
+print(string[0:3])
+print(string[5:7])
+print(string[0:2]+string[3:6])
+print(string[1:4])
+print(string[5]+string[4]+string[3])
+print(string[6]+string[4]+string[2])

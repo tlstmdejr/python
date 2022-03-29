@@ -1,0 +1,5 @@
+print("23"+"Bc"+"7")
+print("23Bc7")
+print(23, end='')
+print('bc',end='')
+print(7)
